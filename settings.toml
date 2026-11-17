@@ -38,7 +38,7 @@ footer = ""
 # The full-screen image or video behind the title. Use a .jpg/.png for an
 # image or an .mp4 for a short, silent, looping video. Leave it empty for a
 # solid block of screen_color.
-background = ""
+background = "02.mp4"
 # background = "hero.jpg"
 # background = "hero-loop.mp4"
 # Still image shown while a background video loads (strongly recommended for video).
@@ -51,7 +51,7 @@ screen_color = "#000000"
 screen_opacity = 0.45
 # Where the title sits: top-left, top-center, top-right, middle-left,
 # middle-center, middle-right, bottom-left, bottom-center, bottom-right.
-align = "middle-center"
+align = "middle-left"
 title_font = "Quattrocento"
 title_size = "5.5rem"
 title_weight = 700
